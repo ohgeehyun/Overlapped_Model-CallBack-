@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overlapped_Model-CallBack-", "Overlapped_Model-CallBack-\Overlapped_Model-CallBack-.vcxproj", "{C7254947-B182-4AD4-8EC5-55315E09534C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dummy_client", "Dummy_client\Dummy_client.vcxproj", "{C7A35295-36D4-496A-81C2-35E4A341C463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Debug|x64.ActiveCfg = Debug|x64
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Debug|x64.Build.0 = Debug|x64
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Debug|x86.Build.0 = Debug|Win32
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Release|x64.ActiveCfg = Release|x64
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Release|x64.Build.0 = Release|x64
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Release|x86.ActiveCfg = Release|Win32
+		{C7254947-B182-4AD4-8EC5-55315E09534C}.Release|x86.Build.0 = Release|Win32
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Debug|x64.ActiveCfg = Debug|x64
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Debug|x64.Build.0 = Debug|x64
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Debug|x86.Build.0 = Debug|Win32
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Release|x64.ActiveCfg = Release|x64
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Release|x64.Build.0 = Release|x64
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Release|x86.ActiveCfg = Release|Win32
+		{C7A35295-36D4-496A-81C2-35E4A341C463}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94418DCC-EE7D-400D-86EA-FE7AA1A179B1}
+	EndGlobalSection
+EndGlobal
